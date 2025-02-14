@@ -2,7 +2,6 @@
 Something About Interset or Goal
 <head>
 API Developer
-</head>
 <head>
 AI AND ML Cloud Based.
   </head>
@@ -11,4 +10,5 @@ FULL STACK Developer .
     </head>
     <head>
 Data Engineer
+      </head>
 </head>
